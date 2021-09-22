@@ -1,0 +1,9 @@
+body {
+  margin: 0 auto;
+  padding: 25px;
+  width: 500px;
+}
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
